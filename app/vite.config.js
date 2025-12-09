@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: "/CS351-RSA-Encryption/",
+  base: "/NJIT-CS351-RSA-Encryption/",
 })
