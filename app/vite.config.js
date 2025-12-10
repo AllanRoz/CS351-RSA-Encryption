@@ -3,12 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [
-    react({
-      babel: {
-        plugins: [['babel-plugin-react-compiler']],
-      },
-    }),
-  ],
-  base: "/NJIT-CS351-RSA-Encryption/",
+  plugins: [react()],
+  base: "/NJIT-CS351-RSA-Algorithm/",
 })

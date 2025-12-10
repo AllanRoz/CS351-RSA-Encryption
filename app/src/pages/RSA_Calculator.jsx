@@ -122,7 +122,7 @@ export default function RSA_Encryption() {
   };
 
   return (
-    <Box sx={{ maxWidth: 600, mt: 5, mx: "auto", textAlign: "center", px: 2 }}>
+    <Box sx={{ maxWidth: 600, mt: 10, mx: "auto", textAlign: "center", px: 2 }}>
       <Typography variant="h4" fontWeight="bold" color="black">
         RSA Calculator
       </Typography>
