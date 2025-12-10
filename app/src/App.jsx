@@ -5,7 +5,7 @@ import RSA_Calculator from "./pages/RSA_Calculator";
 
 function App() {
   return (
-    <BrowserRouter basename="/NJIT-CS351-RSA-Algorithm/">
+    <BrowserRouter basename="/NJIT-CS351-RSA-Algorithm">
       <Navbar />
 
       <Routes>
