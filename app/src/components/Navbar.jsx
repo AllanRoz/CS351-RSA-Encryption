@@ -31,7 +31,7 @@ export default function Navbar() {
 
         {/* RIGHT SECTION */}
         <Button color="inherit" onClick={() => navigate("/calculator")}>
-          RSA Calculator
+          Calculator
         </Button>
       </Toolbar>
     </AppBar>
